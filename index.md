@@ -17,7 +17,7 @@ A Raspberry Pi → Python → Local LLM → MongoDB pipeline that parses text fi
 
 ### **M_R_A — AI‑Assisted React + MongoDB App**
 A small full‑stack app built through a combination of AI‑generated code, human debugging, and iterative refinement. This project taught me a lot about hallucinations, prompt specificity, and when to override the model.  
-**[Repository]:** (https://github.com/LabNotesAI/M_R_A)  
+**Repository:** [M_R_A](https://github.com/LabNotesAI/M_R_A)  
 **Case Studies:**  
 - [Multi‑Model Workflow](/portfolio/multi-model-workflow.md)  
 - [Debugging AI‑Generated Code](/portfolio/debugging-ai-generated-code.md)
